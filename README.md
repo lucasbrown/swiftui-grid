@@ -1,3 +1,3 @@
 # SwiftUI Grid
 
-A description of this package.
+Presents data arranged in rows and columns like UICollectionView with UICollectionViewFlowLayout.
